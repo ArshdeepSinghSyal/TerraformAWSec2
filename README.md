@@ -1,5 +1,5 @@
 # EC2 Provisioning Using Ansible
-
+[!alt text](https://github.com/ArshdeepSinghSyal/TerraformAWSec2/blob/master/resources/zaloni.jpg)
 ## Project Objective
 To provision two ec-2 instances (Visual Instance & Web Instance) with custom security permissions using Terraform on AWS cloud by switching to an IAM role.
 
